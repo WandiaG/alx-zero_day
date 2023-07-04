@@ -1,1 +1,1 @@
-my first readme file
+I am a software Engineer Student Now
